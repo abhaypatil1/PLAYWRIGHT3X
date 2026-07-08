@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# Don't ignore this file
+!.gitignore
+
+# Track the PLAYWRIGHT3X directory
+!PLAYWRIGHT3X/
+!PLAYWRIGHT3X/**
+!PLAYWRIGHT3X/**/
